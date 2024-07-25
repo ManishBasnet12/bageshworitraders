@@ -53,7 +53,7 @@ export default function Home() {
         <Marquee1 />
         {/* <Choose3 /> */}
         <Testimonial2 />
-        <Brand2 />
+        {/* <Brand2 /> */}
 
         <Callback2 />
 

@@ -132,16 +132,16 @@ export default function Contact() {
                             <div className="row">
                                 <div className="col-lg-12">
                                     <div className="contact-map">
-                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3531.220649964729!2d85.32710857599285!3d27.741339523990383!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb193b9cd510ef%3A0x4ebdfcab003bd043!2sIBA%20International%20Education%20Consultancy!5e0!3m2!1sen!2snp!4v1721549032352!5m2!1sen!2snp"  loading="lazy"></iframe>
-                                    </div>
+                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3521.509441630905!2d82.48326617600065!3d28.03946561076392!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39979500675bb9b3%3A0x5ee3c1a2a1169525!2sBageshwori%20Traders%20%26%20Media%20Hub%20Pvt%20Ltd.!5e0!3m2!1sen!2snp!4v1721806503628!5m2!1sen!2snp" width={600} height={450} allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>                                    </div>
                                 </div>
                             </div>
                             <div className="row align-items-center">
                                 <div className="col-lg-5">
                                     <div className="contact__content">
                                         <div className="section-title mb-35">
-                                            <h2 className="title">How Can We Assist You?</h2>
-                                            <p>Whether you're looking for guidance on college admissions, academic planning, or test preparation, our experienced consultants are here to help. Let us tailor our services to meet your educational needs.</p>
+                                            <h2 className="title">Get In Touch
+                                            </h2>
+                                            {/* <p>Whether you're looking for guidance on college admissions, academic planning, or test preparation, our experienced consultants are here to help. Let us tailor our services to meet your educational needs.</p> */}
                                         </div>
                                         <div className="contact__info">
                                             <ul className="list-wrap">
@@ -151,7 +151,7 @@ export default function Contact() {
                                                     </div>
                                                     <div className="content">
                                                         <h4 className="title">Address</h4>
-                                                        <p>Bashundhara Chowk, Kathmandu</p>
+                                                        <p>Ghorahi, Dang</p>
                                                     </div>
                                                 </li>
                                                 <li>
@@ -160,7 +160,7 @@ export default function Contact() {
                                                     </div>
                                                     <div className="content">
                                                         <h4 className="title">Phone</h4>
-                                                        <Link href="tel:+9779840636305">+977(984)-0636305</Link>
+                                                        <Link href="tel:+9779840636305">+977(986)-8612453</Link>
                                                     </div>
                                                 </li>
                                                 <li>
@@ -169,7 +169,7 @@ export default function Contact() {
                                                     </div>
                                                     <div className="content">
                                                         <h4 className="title">E-mail</h4>
-                                                        <Link href="ibaintedu@outlook.com">ibaintedu@outlook.com</Link>
+                                                        <Link href="ibaintedu@outlook.com">Inquiry.bageshworitraders@gmail.com</Link>
                                                     </div>
                                                 </li>
                                             </ul>
@@ -179,7 +179,7 @@ export default function Contact() {
                                 <div className="col-lg-7">
                                     <div className="contact__form-wrap">
                                         <h2 className="title">Inquire About Our Services</h2>
-                                        <p>Your information will be kept confidential and used solely to assist with your educational inquiry. Required fields are marked *.</p>
+                                        {/* <p>Your information will be kept confidential and used solely to assist with your educational inquiry. Required fields are marked *.</p> */}
                                         <form>
                                             <div className="form-grp">
                                                 <textarea value={contactFields.message} onChange={e => setContactFields({ ...contactFields, message: e.target.value })} name="message" placeholder="Message" />
@@ -218,7 +218,7 @@ export default function Contact() {
                     </section>
                     {/* contact-area-end */}
                     {/* call-back-area */}
-                    <section className="call-back-area">
+                    {/* <section className="call-back-area">
                         <div className="container">
                             <div className="row">
                                 <div className="col-lg-6">
@@ -263,7 +263,7 @@ export default function Contact() {
                                 </div>
                             </div>
                         </div>
-                    </section>
+                    </section> */}
                 </div>
             </Layout>
         </>

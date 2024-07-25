@@ -12,7 +12,7 @@ export default function Services3() {
                             <div className="col-lg-6">
                                 <div className="section-title white-title text-center mb-50">
                                     <span className="sub-title">OUR SERVICES</span>
-                                    <h2 className="title">Discover Our Range of Educational Services</h2>
+                                    <h2 className="title">Discover Our Range of  Services</h2>
                                 </div>
                             </div>
                         </div>
@@ -24,12 +24,11 @@ export default function Services3() {
                                             <i className="flaticon-profit" />
                                         </div>
                                         <div className="services__item-top-title">
-                                            <h2 className="title"><Link href="/services-details">College Application Guidance</Link></h2>
+                                            <h2 className="title">Wide Product Range</h2>
                                         </div>
                                     </div>
                                     <div className="services__content-three">
-                                        <p>Our College Application Guidance service helps students navigate the complexities of college applications, ensuring they present their best selves to prospective universities. From crafting compelling essays to organizing transcripts and recommendation letters, we provide comprehensive support tailored to each student's needs.</p>
-                                        <Link href="/services-details" className="btn btn-two">Read More</Link>
+                                        <p>We offer a diverse selection of laptop accessories and parts. From essential chargers and batteries to specialized media equipment, our products cater to both individual users and businesses, ensuring you find exactly what you need.</p>
                                     </div>
                                 </div>
                             </div>
@@ -40,12 +39,11 @@ export default function Services3() {
                                             <i className="flaticon-target" />
                                         </div>
                                         <div className="services__top-title">
-                                            <h2 className="title"><Link href="/services-details">School Branding<br /> and Promotion</Link></h2>
+                                            <h2 className="title">Competitive Pricing</h2>
                                         </div>
                                     </div>
                                     <div className="services__content-three">
-                                        <p>Our School Branding and Promotion service specializes in creating a strong and recognizable brand for educational institutions. From designing logos and websites to managing social media campaigns and organizing events, we ensure schools effectively communicate their values and achievements to current and prospective families.</p>
-                                        <Link href="/services-details" className="btn btn-two">Read More</Link>
+                                        <p>Enjoy high-quality products at affordable prices. We regularly offer discounts and promotions, making it easy for you to get the best value for your money without compromising on quality.</p>
                                     </div>
                                 </div>
                             </div>
@@ -56,12 +54,11 @@ export default function Services3() {
                                             <i className="flaticon-financial-profit" />
                                         </div>
                                         <div className="services__top-title">
-                                            <h2 className="title"><Link href="/services-details">College Savings <br />Plans and Tuition Funding</Link></h2>
+                                            <h2 className="title">Exceptional Customer Service</h2>
                                         </div>
                                     </div>
                                     <div className="services__content-three">
-                                        <p>Our College Savings Plans and Tuition Funding service provides families with comprehensive financial strategies to cover the cost of higher education. From setting up 529 plans to exploring tax-advantaged accounts and scholarship opportunities, we offer personalized advice to help parents and students plan for the future with confidence.</p>
-                                        <Link href="/services-details" className="btn btn-two">Read More</Link>
+                                        <p>Our dedicated and knowledgeable support team is always ready to assist you. Whether you need help with product selection or troubleshooting, we're committed to providing friendly and reliable customer service to ensure your satisfaction.</p>
                                     </div>
                                 </div>
                             </div>
@@ -72,12 +69,11 @@ export default function Services3() {
                                             <i className="flaticon-piggy-bank" />
                                         </div>
                                         <div className="services__top-title">
-                                            <h2 className="title"><Link href="/services-details">Tax-Saving <br />Strategies for Education</Link></h2>
+                                            <h2 className="title">High-Quality Products</h2>
                                         </div>
                                     </div>
                                     <div className="services__content-three">
-                                        <p>Our Tax-Saving Strategies for Education service helps families understand and utilize tax incentives available for educational expenses. From understanding deductions for tuition fees and scholarships to exploring tax credits for educational materials and equipment, our experts guide you through the complexities of tax laws to maximize your savings on education-related costs.</p>
-                                        <Link href="/services-details" className="btn btn-two">Read More</Link>
+                                        <p>We are committed to providing only the best products from reputable manufacturers. Our selection ensures reliability and top-notch performance, so you can trust that you're getting high-quality items every time you shop with us.</p>
                                     </div>
                                 </div>
                             </div>
@@ -88,12 +84,11 @@ export default function Services3() {
                                             <i className="flaticon-investment-1" />
                                         </div>
                                         <div className="services__top-title">
-                                            <h2 className="title"><Link href="/services-details">Investment <br />Strategies for Education</Link></h2>
+                                            <h2 className="title">Training and Workshops</h2>
                                         </div>
                                     </div>
                                     <div className="services__content-three">
-                                        <p>Our Investment Strategies for Education service guides families and institutions in making informed decisions about allocating funds towards educational goals. Whether it's saving for college, investing in educational technology, or funding research projects, our experts provide personalized advice to help clients build sustainable financial growth for education.</p>
-                                        <Link href="/services-details" className="btn btn-two">Read More</Link>
+                                        <p>We provide training sessions and workshops to help you get the most out of your technology. Our training programs are designed to empower you with the knowledge you need.</p>
                                     </div>
                                 </div>
                             </div>
@@ -104,12 +99,11 @@ export default function Services3() {
                                             <i className="flaticon-startup" />
                                         </div>
                                         <div className="services__top-title">
-                                            <h2 className="title"><Link href="/services-details">Strategic <br />Launch for Educational Ventures</Link></h2>
+                                            <h2 className="title">Installation and Setup</h2>
                                         </div>
                                     </div>
                                     <div className="services__content-three">
-                                        <p>Our Strategic Launch for Educational Ventures service assists entrepreneurs and organizations in planning and executing successful launches for new educational programs, tech startups, and non-profit initiatives. From market analysis and competitive positioning to fundraising strategies and operational planning, we provide comprehensive support to ensure ventures make a meaningful impact in education.</p>
-                                        <Link href="/services-details" className="btn btn-two">Read More</Link>
+                                        <p>To ensure your new equipment is ready to use right out of the box, we offer professional installation and setup services. Our technicians will handle everything from unboxing to configuration.</p>
                                     </div>
                                 </div>
                             </div>

@@ -138,8 +138,9 @@ export default function Menu() {
                         })}
                     </ul>
                 </li> */}
-                <li><Link style={{padding:"20px 0"}} href="/blog" className={pathname === '/blog' ? 'active' : ''}>Blog</Link>
-                    {/* <ul className="sub-menu">
+                {/* <li>
+                    <Link style={{padding:"20px 0"}} href="/blog" className={pathname === '/blog' ? 'active' : ''}>Blog</Link>
+                    <ul className="sub-menu">
                         {blogLinks.map((link) => {
                             return (
                                 <li key={link.id}>
@@ -152,8 +153,8 @@ export default function Menu() {
                                 </li>
                             );
                         })}
-                    </ul> */}
-                </li>
+                    </ul> 
+                </li>*/}
                 <li><Link style={{padding:"20px 0"}} href="/contact" className={pathname === '/contact' ? 'active' : ''}>contacts</Link></li>
             </ul>            
         </>

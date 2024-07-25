@@ -19,7 +19,7 @@ export default function About2() {
                                 <div className="col-lg-12">
                                     <div className="about__content-five">
                                         <div className="section-title mb-30">
-                                            <h2 className="title">Committed Educators <br /> <span>Empowering</span> Learners <span>Everyday</span></h2>
+                                            {/* <h2 className="title">Committed Educators <br /> <span>Empowering</span> Learners <span>Everyday</span></h2> */}
                                         </div>
                                         <div className="about__img-wrap-five">
                                             <img src="/assets/img/images/inner02_about_img.jpg" alt="" />
@@ -50,7 +50,8 @@ export default function About2() {
 
                                             </div>
                                         </div>
-                                        <p>With over two decades of experience, our team of dedicated educators is committed to transforming lives through knowledge. We specialize in creating personalized learning experiences that empower students to reach their full potential. Our approach combines innovative teaching strategies with a deep understanding of each student's unique learning journey.</p>
+                                        <p>Welcome to Bageshwori Traders & Media Hub Pvt. Ltd.! We are your go-to place for top-quality laptop accessories, parts, and media devices. Whether you need a new charger, a better keyboard, or specialized equipment for media production, we've got you covered. Our wide range of products is carefully selected to meet the needs of both individuals and businesses.</p>
+                                        <p>At Bageshwori Traders & Media Hub, we pride ourselves on offering excellent customer service, great prices, and products you can rely on. Take a look around and find everything you need to keep your technology running smoothly and efficiently. We're here to help you get the most out of your devices!</p>
                                     </div>
                                 </div>
                             </div>
@@ -58,7 +59,7 @@ export default function About2() {
                     </section>
                     {/* about-area-end */}
                     {/* counter-area */}
-                    <section className="counter-area">
+                    {/* <section className="counter-area">
                         <div className="container">
                             <div className="row justify-content-center">
                                 <div className="col-xl-3 col-lg-4 col-sm-6">
@@ -112,10 +113,10 @@ export default function About2() {
                             <img src="/assets/img/images/counter_shape02.png" alt="" data-parallax="{&quot;x&quot; : 100 , &quot;y&quot; : -100 }" />
                             <img src="/assets/img/images/counter_shape03.png" alt="" data-aos="fade-left" data-aos-delay={400} />
                         </div>
-                    </section>
+                    </section> */}
                     {/* counter-area-end */}
                     {/* request-area */}
-                    <section className="request-area request-bg" data-background="/assets/img/bg/request_bg.jpg">
+                    {/* <section className="request-area request-bg" data-background="/assets/img/bg/request_bg.jpg">
                         <div className="container">
                             <div className="row justify-content-center">
                                 <div className="col-lg-8">
@@ -141,10 +142,10 @@ export default function About2() {
                             <img src="/assets/img/images/request_shape01.png" alt="" data-aos="fade-right" data-aos-delay={400} />
                             <img src="/assets/img/images/request_shape02.png" alt="" data-aos="fade-left" data-aos-delay={400} />
                         </div>
-                    </section>
+                    </section> */}
                     {/* request-area-end */}
                     {/* team-area */}
-                    <section className="team__area-three">
+                    {/* <section className="team__area-three">
                         <div className="container">
                             <div className="row align-items-center">
                                 <div className="col-xl-7 col-lg-6">
@@ -218,10 +219,10 @@ export default function About2() {
                                 </div>
                             </div>
                         </div>
-                    </section>
+                    </section> */}
                     {/* team-area-three */}
                     {/* testimonial-area */}
-                    <section className="testimonial__area-three testimonial__bg" data-background="/assets/img/bg/h3_testimonial_bg.jpg">
+                    {/* <section className="testimonial__area-three testimonial__bg" data-background="/assets/img/bg/h3_testimonial_bg.jpg">
                         <div className="container">
                             <div className="row align-items-center justify-content-center">
                                 <div className="col-lg-5 col-md-8">
@@ -243,16 +244,16 @@ export default function About2() {
                                 </div>
                             </div>
                         </div>
-                    </section>
+                    </section> */}
                     {/* testimonial-area-end */}
                     {/* brand-area */}
-                    <div className="brand__area-four">
+                    {/* <div className="brand__area-four">
                         <div className="container">
                             <div className="swiper-container brand-active">
                                 <BrandActiveSlider />
                             </div>
                         </div>
-                    </div>
+                    </div> */}
                     {/* brand-area */}
                 </div>
             </Layout>

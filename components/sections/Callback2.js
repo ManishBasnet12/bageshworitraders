@@ -63,7 +63,7 @@ export default function Callback2() {
 
     return (
         <>
-            <section className="call-back-area call-back-area-two" style={{marginBottom:"100px"}}>
+            <section className="call-back-area call-back-area-two" style={{margin:"100px 0px"}}>
                 <div className="container">
                     <div className="call-back-wrap">
                         <div className="row align-items-center">
