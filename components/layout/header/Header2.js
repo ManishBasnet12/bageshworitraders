@@ -20,7 +20,7 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu, transp
                             <div className="row">
                                 <div className="col-lg-6">
                                     <ul className="tg-header__top-info tg-header__top-info-two list-wrap">
-                                        <li><i className="flaticon-phone-call" /><Link href="tel:0123456789">+977(986)-8612453</Link></li>
+                                        <li><i className="flaticon-phone-call" /><Link href="tel:0123456789">+977(984)-0334418</Link></li>
                                         <li><i className="flaticon-pin" />Ghorahi, Dang</li>
                                     </ul>
                                 </div>
@@ -105,7 +105,7 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu, transp
                                                 <div className="contact-info">
                                                     <ul className="list-wrap">
                                                         <li><Link href="mailto:ibaintedu@outlook.com">Inquiry.bageshworitraders@gmail.com</Link></li>
-                                                        <li><Link href="tel:+9779840636305">+977(986)-8612453</Link></li>
+                                                        <li><Link href="tel:+9779840636305">+977(984)-0334418</Link></li>
                                                     </ul>
                                                 </div>
                                                 <div className="social-links">
