@@ -90,7 +90,7 @@ export default function Menu() {
                         })}
                     </ul> */}
                 </li>
-                <li><Link style={{padding:"20px 0"}} href="/about-2" className={pathname === '/about-2' ? 'active' : ''}>About Us</Link>
+                <li><Link style={{padding:"20px 0"}} href="/aboutus" className={pathname === '/aboutus' ? 'active' : ''}>About Us</Link>
                     {/* <ul className="sub-menu">
                         {aboutLinks.map((link) => {
                             return (
@@ -106,7 +106,7 @@ export default function Menu() {
                         })}
                     </ul> */}
                 </li>
-                <li><Link style={{padding:"20px 0"}} href="/services-3" className={pathname === '/services-3' ? 'active' : ''}>Services</Link>
+                <li><Link style={{padding:"20px 0"}} href="/services" className={pathname === '/services' ? 'active' : ''}>Services</Link>
                     {/* <ul className="sub-menu">
                         {servicesLinks.map((link) => {
                             return (

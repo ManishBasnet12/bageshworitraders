@@ -66,10 +66,10 @@ export default function Footer2() {
                           <Link href="/">Home</Link>
                         </li>
                         <li>
-                          <Link href="/about-2">About us</Link>
+                          <Link href="/aboutus">About us</Link>
                         </li>
                         <li>
-                          <Link href="/Services-3">Services</Link>
+                          <Link href="/Services">Services</Link>
                         </li>
                         <li>
                           <Link href="/contact">Contact us</Link>
