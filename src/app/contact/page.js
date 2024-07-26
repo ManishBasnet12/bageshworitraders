@@ -141,7 +141,6 @@ export default function Contact() {
                                         <div className="section-title mb-35">
                                             <h2 className="title">Get In Touch
                                             </h2>
-                                            {/* <p>Whether you're looking for guidance on college admissions, academic planning, or test preparation, our experienced consultants are here to help. Let us tailor our services to meet your educational needs.</p> */}
                                         </div>
                                         <div className="contact__info">
                                             <ul className="list-wrap">
@@ -160,7 +159,7 @@ export default function Contact() {
                                                     </div>
                                                     <div className="content">
                                                         <h4 className="title">Phone</h4>
-                                                        <Link href="tel:+9779840636305">+977(986)-8612453</Link>
+                                                        +977(986)-8612453
                                                     </div>
                                                 </li>
                                                 <li>
@@ -169,7 +168,7 @@ export default function Contact() {
                                                     </div>
                                                     <div className="content">
                                                         <h4 className="title">E-mail</h4>
-                                                        <Link href="ibaintedu@outlook.com">Inquiry.bageshworitraders@gmail.com</Link>
+                                                       Inquiry.bageshworitraders@gmail.com
                                                     </div>
                                                 </li>
                                             </ul>
@@ -182,22 +181,22 @@ export default function Contact() {
                                         {/* <p>Your information will be kept confidential and used solely to assist with your educational inquiry. Required fields are marked *.</p> */}
                                         <form>
                                             <div className="form-grp">
-                                                <textarea value={contactFields.message} onChange={e => setContactFields({ ...contactFields, message: e.target.value })} name="message" placeholder="Message" />
+                                                <textarea  name="message" placeholder="Message" />
                                             </div>
                                             <div className="row">
                                                 <div className="col-md-4">
                                                     <div className="form-grp">
-                                                        <input value={contactFields.name} onChange={e => setContactFields({ ...contactFields, name: e.target.value })} type="text" name="name" placeholder="Name" />
+                                                        <input  type="text" name="name" placeholder="Name" />
                                                     </div>
                                                 </div>
                                                 <div className="col-md-4">
                                                     <div className="form-grp">
-                                                        <input value={contactFields.email} onChange={e => setContactFields({ ...contactFields, email: e.target.value })} type="email" name="email" placeholder="Email" />
+                                                        <input  type="email" name="email" placeholder="Email" />
                                                     </div>
                                                 </div>
                                                 <div className="col-md-4">
                                                     <div className="form-grp">
-                                                        <input value={contactFields.phone} onChange={e => setContactFields({ ...contactFields, phone: e.target.value })} type="number" name="phone" placeholder="Phone" />
+                                                        <input  type="number" name="phone" placeholder="Phone" />
                                                     </div>
                                                 </div>
                                             </div>
@@ -206,8 +205,8 @@ export default function Contact() {
                                                 <label htmlFor="checkbox">I agree to the terms and conditions.</label>
                                             </div>
                                             
-                                            <button onClick={submitContactDetails} disabled={isLoading} type="button" className="btn">
-                                            { isLoading ? <svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path class="spinner_0XTQ" d="M12,23a9.63,9.63,0,0,1-8-9.5,9.51,9.51,0,0,1,6.79-9.1A1.66,1.66,0,0,0,12,2.81h0a1.67,1.67,0,0,0-1.94-1.64A11,11,0,0,0,12,23Z"/></svg> : 'Submit Inquiry'}
+                                            <button  type="button" className="btn">
+                                                Submit
                                             </button>
                                         </form>
                                         {/* <p className="ajax-response mb-0" /> */}
