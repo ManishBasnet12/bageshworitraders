@@ -24,73 +24,69 @@ const outfit = Outfit({
     display: 'swap',
 })
 
-// export const metadata = {
-//     metadataBase: new URL('https://www.ibainternationaleducation.com.np'),
-//     title:{
-//       default:'IBA International Education Consultancy || Study Abroad Consultant in Nepal - Expert Guidance for International Education',
-//       template:'%s - IBA International Education Consultancy'
-//     },
-//     description:'Explore your global education opportunities with IBA International Education Consultancy, your trusted study abroad consultant in Nepal. Benefit from our expert guidance as we navigate you through the journey to international education success. Choose excellence, choose IBA.',
-//     // , driving innovation and excellence in the digital space
-//     twitter: {
-//       card:'summary_large_image'
-//     }
-//   };
-
 export const metadata = {
-  metadataBase: new URL('https://www.ibainternationaleducation.com.np'),
-  title: {
-    default: 'IBA International Education Consultancy || Study Abroad Consultant in Nepal - Expert Guidance for International Education',
-    template: '%s - IBA International Education Consultancy'
-  },
-  description: 'Explore your global education opportunities with IBA International Education Consultancy, your trusted study abroad consultant in Nepal. Benefit from our expert guidance as we navigate you through the journey to international education success. Choose excellence, choose IBA.',
-  twitter: {
-    card: 'summary_large_image',
-    site: '@IBAConsultancy',
-    creator: '@IBAConsultancy',
-    title: 'IBA International Education Consultancy',
-    description: 'Your trusted study abroad consultant in Nepal. Benefit from our expert guidance as we navigate you through the journey to international education success.',
-    image: 'https://www.ibainternationaleducation.com.np/twitter-image.jpg'
-  },
-  openGraph: {
-    type: 'website', 
-    locale: 'en_US',
-    url: 'https://www.ibainternationaleducation.com.np',
-    title: 'IBA International Education Consultancy || Study Abroad Consultant in Nepal - Expert Guidance for International Education',
-    description: 'Explore your global education opportunities with IBA International Education Consultancy, your trusted study abroad consultant in Nepal. Benefit from our expert guidance as we navigate you through the journey to international education success. Choose excellence, choose IBA.',
-    site_name: 'IBA International Education Consultancy',
-    images: [
-      {
-        url: 'https://res.cloudinary.com/dfcl5nzvk/image/upload/v1721726474/9974_tbcwwr.jpg',
-        width: 1200,
-        height: 630,
-        alt: 'IBA International Education Consultancy'
-      }
-    ]
-  },
-  alternates: {
-    canonical: 'https://www.ibainternationaleducation.com.np',
-    languages: {
-      'en-US': 'https://www.ibainternationaleducation.com.np',
+    metadataBase: new URL('https://www.bageshworitraders.com.np'),
+    title:{
+      default:'Bageshwori Traders and Media Hub Private Limited',
+      template:'%s - Bageshwori Traders and Media Hub Private Limited'
+    },
+    description:'Bageshwori Traders and Media Hub Private Limited',
+    twitter: {
+      card:'summary_large_image'
     }
-  },
-  robots: {
-    index: true,
-    follow: true,
-    'max-snippet': -1,
-    'max-image-preview': 'large',
-    'max-video-preview': -1
-  },
-  // themeColor: '#369649',
-  // colorScheme: 'light',
-  generator: 'Next.js',
-  applicationName: 'IBA International Education Consultancy',
-  referrer: 'no-referrer-when-downgrade',
-  authors: [{ name: 'IBA International Education Consultancy', url: 'https://www.ibainternationaleducation.com.np' }],
-  // viewport: 'width=device-width, initial-scale=1.0',
-  creator: 'IBA International Education Consultancy',
-  publisher: 'IBA International Education Consultancy'
-};
+  };
+
+// export const metadata = {
+//   metadataBase: new URL('https://www.bageshworitraders.com.np'),
+//   title: {
+//     default: 'Bageshwori Traders and Media Hub Private Limited',
+//     template: '%s - Bageshwori Traders and Media Hub Private Limited'
+//   },
+//   description: 'Bageshwori Traders and Media Hub Private Limited',
+//   twitter: {
+//     card: 'summary_large_image',
+//     site: '@IBAConsultancy',
+//     creator: '@IBAConsultancy',
+//     title: 'IBA International Education Consultancy',
+//     description: 'Your trusted study abroad consultant in Nepal. Benefit from our expert guidance as we navigate you through the journey to international education success.',
+//     image: 'https://www.ibainternationaleducation.com.np/twitter-image.jpg'
+//   },
+//   openGraph: {
+//     type: 'website', 
+//     locale: 'en_US',
+//     url: 'https://www.ibainternationaleducation.com.np',
+//     title: 'IBA International Education Consultancy || Study Abroad Consultant in Nepal - Expert Guidance for International Education',
+//     description: 'Explore your global education opportunities with IBA International Education Consultancy, your trusted study abroad consultant in Nepal. Benefit from our expert guidance as we navigate you through the journey to international education success. Choose excellence, choose IBA.',
+//     site_name: 'IBA International Education Consultancy',
+//     images: [
+//       {
+//         url: 'https://res.cloudinary.com/dfcl5nzvk/image/upload/v1721726474/9974_tbcwwr.jpg',
+//         width: 1200,
+//         height: 630,
+//         alt: 'Bageshwori Traders and Media Hub Private Limited'
+//       }
+//     ]
+//   },
+//   alternates: {
+//     canonical: 'https://www.ibainternationaleducation.com.np',
+//     languages: {
+//       'en-US': 'https://www.ibainternationaleducation.com.np',
+//     }
+//   },
+//   robots: {
+//     index: true,
+//     follow: true,
+//     'max-snippet': -1,
+//     'max-image-preview': 'large',
+//     'max-video-preview': -1
+//   },
+//   generator: 'Next.js',
+//   applicationName: 'IBA International Education Consultancy',
+//   referrer: 'no-referrer-when-downgrade',
+//   authors: [{ name: 'IBA International Education Consultancy', url: 'https://www.ibainternationaleducation.com.np' }],
+//   creator: 'IBA International Education Consultancy',
+//   publisher: 'IBA International Education Consultancy'
+// };
 
 export default function RootLayout({ children }) {
     return (
