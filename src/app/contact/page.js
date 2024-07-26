@@ -159,8 +159,7 @@ export default function Contact() {
                                                     </div>
                                                     <div className="content">
                                                         <h4 className="title">Phone</h4>
-                                                        +977(986)-8612453
-                                                    </div>
+                                                        +977(984)-0334418                                                    </div>
                                                 </li>
                                                 <li>
                                                     <div className="icon">

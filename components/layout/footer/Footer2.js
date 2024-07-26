@@ -33,8 +33,7 @@ export default function Footer2() {
                               <i className="flaticon-phone-call" />
                             </div>
                             <div className="content">
-                            <p>                            +977(986)-8612453
-                            </p>
+                            <p>                            +977(984)-0334418                            </p>
                               </div>
                           </li>
                           <li>
