@@ -24,12 +24,12 @@ export default function OffcanvusMenu({ isOffcanvus, handleOffcanvus }) {
                         <p>Inquiry.bageshworitraders@gmail.com</p>
                     </div>
                 </div>
-                <div className="offCanvas__social-icon mt-30">
+                {/* <div className="offCanvas__social-icon mt-30">
                     <Link href="#"><i className="fab fa-facebook-f" /></Link>
                     <Link href="#"><i className="fab fa-twitter" /></Link>
                     <Link href="#"><i className="fab fa-google-plus-g" /></Link>
                     <Link href="#"><i className="fab fa-instagram" /></Link>
-                </div>
+                </div> */}
             </div>
             <div className={`offCanvas__overly ${isOffcanvus ? "active" : ""}`} onClick={handleOffcanvus} />
         </>

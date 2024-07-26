@@ -75,13 +75,13 @@ export default function MobileMenu() {
                     </ul>
                     <div className={isActive.key == 4 ? "dropdown-btn open" : "dropdown-btn"} onClick={() => handleToggle(4)}><span className="plus-line" /></div>
                 </li> */}
-                <li ><Link href="/blog">Blog</Link>
+                {/* <li ><Link href="/blog">Blog</Link> */}
                     {/* <ul className="sub-menu" style={{ display: `${isActive.key == 5 ? "block" : "none"}` }}>
                         <li><Link href="blog">Our Blog</Link></li>
                         <li><Link href="blog-details">Blog Details</Link></li>
                     </ul>
                     <div className={isActive.key == 5 ? "dropdown-btn open" : "dropdown-btn"} onClick={() => handleToggle(5)}><span className="plus-line" /></div> */}
-                </li>
+                {/* </li> */}
                 <li><Link href="/contact">contacts</Link></li>
             </ul>
         </>
