@@ -14,8 +14,8 @@ export default function Request2() {
                                     <div className="icon">
                                         <i className="flaticon-phone-call text-white" />
                                     </div>
-                                    <div className="content">
-                                        <Link href="tel:0123456789">+977(984)-0636305</Link>
+                                    <div className="content" style={{color:"white", fontSize:"20px"}}>
+                                    +977(984)-0636305
                                     </div>
                                 </div>
                             </div>

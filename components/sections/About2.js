@@ -8,7 +8,7 @@ export default function About2() {
                     <div className="row align-items-center justify-content-center">
                         <div className="col-lg-6 col-md-8">
                             <div className="about__img-wrap-two">
-                                <img src="https://res.cloudinary.com/dfcl5nzvk/image/upload/v1721497052/431909093_122123769500211089_7137153270168936288_n00_1_00_g9oybb.jpg" alt="" />
+                                <img src="/assets/img/aboutus/aboutus.jpg" alt="" />
                                 <div className="shape">
                                     <img src="/assets/img/images/h2_about_img_shape.png" alt="" className="alltuchtopdown" />
                                 </div>
@@ -18,10 +18,7 @@ export default function About2() {
                                             <path d="M70.7685 260.479C77.6405 257.127 82 250.15 82 242.503L82 44.8205C82 36.5032 76.8524 29.054 69.0724 26.1128L-3.51784e-06 9.7784e-07L0 295L70.7685 260.479Z" fill="currentcolor" />
                                         </svg>
                                     </div>
-                                    <div className="experience__content">
-                                        <h4 className="title">5+</h4>
-                                        <p>Years Of <br /> Experiences</p>
-                                    </div>
+                                  
                                 </div>
                             </div>
                         </div>

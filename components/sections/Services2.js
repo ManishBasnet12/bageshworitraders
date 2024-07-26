@@ -20,7 +20,7 @@ export default function Services2() {
                                     <i className="flaticon-pie-chart text-white" />
                                 </div>
                                 <div className="services__content-two">
-                                    <h2 className="title"><Link href="/services-details">Product</Link></h2>
+                                    <h2 className="title">Product</h2>
                                     <p>elling a wide range of products, such as laptops, laptop accessories, media equipment, sports equipment, and agriculture equipment.</p>
                                 </div>
                             </div>
@@ -31,7 +31,7 @@ export default function Services2() {
                                     <i className="flaticon-budget text-white" />
                                 </div>
                                 <div className="services__content-two">
-                                    <h2 className="title"><Link href="/services-details">Installation and Setup </Link></h2>
+                                    <h2 className="title">Installation and Setup </h2>
                                     <p>To ensure your new equipment is ready to use right out of the box, we offer professional installation and setup services. Our technicians will handle everything from unboxing to configuration.</p>
                                 </div>
                             </div>
@@ -42,7 +42,7 @@ export default function Services2() {
                                     <i className="flaticon-piggy-bank text-white" />
                                 </div>
                                 <div className="services__content-two">
-                                    <h2 className="title"><Link href="/services-details">High-Quality Products</Link></h2>
+                                    <h2 className="title">High-Quality Products</h2>
                                     <p>We are committed to providing only the best products from reputable manufacturers.We are committed to providing only the best products from reputable manufacturers. Our selection ensures reliability and top-notch performance, so you can trust that you're getting high-quality items every time you shop with us.</p>
                                 </div>
                             </div>

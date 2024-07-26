@@ -22,7 +22,7 @@ export default function About2() {
                                             {/* <h2 className="title">Committed Educators <br /> <span>Empowering</span> Learners <span>Everyday</span></h2> */}
                                         </div>
                                         <div className="about__img-wrap-five">
-                                            <img src="/assets/img/images/inner02_about_img.jpg" alt="" />
+                                            <img src="/assets/img/aboutus/aboutus.jpg" alt="" />
                                             <div className="experience-year">
                                                 <div className="icon">
                                                     <i className="flaticon-trophy" />

@@ -11,7 +11,7 @@ export default function Choose2() {
       <section className="choose__area-two" style={{marginBottom:"100px"}}>
         <div
           className="choose__bg"
-          data-background="/assets/img/bg/choose_bg.jpg"
+          data-background="/assets/img/aboutus/chooseus.jpg"
         />
         <div className="container">
           <div className="row justify-content-end">
@@ -169,7 +169,7 @@ export default function Choose2() {
                           </li>
                         </ul>
                       </div>
-                <div className="operating__box">
+                {/* <div className="operating__box">
                   <div className="icon">
                     <i className="fas fa-globe" />
                   </div>
@@ -178,7 +178,7 @@ export default function Choose2() {
                     Empowering futures since 2020
                     </p>
                   </div>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>
