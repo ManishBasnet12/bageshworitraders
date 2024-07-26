@@ -12,7 +12,7 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu, transp
                 <div className="tg-header__inner-wrap">
                     <div className="tg-header__logo-wrap px-2">
                         <div className="logo">
-                            <Link href="/"><img src="/assets/img/logo/mainlogo.png" alt="Iba International Education Consultancy" /></Link>
+                            <Link href="/"><img src="/assets/img/logo/mainlogo.png" alt="" /></Link>
                         </div>
                     </div>
                     <div className="tg-header__right-side">
@@ -20,13 +20,13 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu, transp
                             <div className="row">
                                 <div className="col-lg-6">
                                     <ul className="tg-header__top-info tg-header__top-info-two list-wrap">
-                                        <li><i className="flaticon-phone-call" /><Link href="tel:0123456789">+977(984)-0334418</Link></li>
+                                        <li><i className="flaticon-phone-call" />+977(984)-0334418</li>
                                         <li><i className="flaticon-pin" />Ghorahi, Dang</li>
                                     </ul>
                                 </div>
                                 <div className="col-lg-6">
                                     <ul className="tg-header__top-right tg-header__top-right-two list-wrap">
-                                        <li><i className="flaticon-envelope" /><Link href="mailto:info@apexa.com">Inquiry.bageshworitraders@gmail.com</Link></li>
+                                        <li><i className="flaticon-envelope" />Inquiry.bageshworitraders@gmail.com</li>
                                         <li><i className="flaticon-time" />Sun-Fri: 08:00am - 06:00pm</li>
                                     </ul>
                                 </div>
@@ -38,7 +38,7 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu, transp
                                     <div className="tgmenu__wrap">
                                         <nav className="tgmenu__nav">
                                             <div className="logo d-none">
-                                                <Link href="/"><img src="/assets/img/logo/mainlogo.png" alt="Iba International Education Consultancy" /></Link>
+                                                <Link href="/"><img src="/assets/img/logo/mainlogo.png" alt="" /></Link>
                                             </div>
                                             <div className="tgmenu__navbar-wrap tgmenu__main-menu d-none d-lg-flex">
                                                 <Menu />
@@ -90,7 +90,7 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu, transp
                                         <nav className="tgmobile__menu-box">
                                             <div className="close-btn" onClick={handleMobileMenu}><i className="fas fa-times" /></div>
                                             <div className="nav-logo">
-                                                <Link href="/"><img src="/assets/img/logo/mainlogo.png" alt="Iba International Education Consultancy" /></Link>
+                                                <Link href="/"><img src="/assets/img/logo/mainlogo.png" alt="" /></Link>
                                             </div>
                                             <div className="tgmobile__search">
                                                 <form action="#">
