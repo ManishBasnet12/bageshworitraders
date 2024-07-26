@@ -108,7 +108,7 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu, transp
                                                         <li><Link href="tel:+9779840636305">+977(984)-0334418</Link></li>
                                                     </ul>
                                                 </div>
-                                                {/* <div className="social-links">
+                                                <div className="social-links">
                                                     <ul className="list-wrap">
                                                         <li><Link target="_blank" href="#"><i className="fab fa-facebook-f" /></Link></li>
                                                         <li><Link target="_blank" href="#"><i className="fab fa-twitter" /></Link></li>
@@ -116,7 +116,7 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu, transp
                                                         <li><Link target="_blank" href="#"><i className="fab fa-linkedin-in" /></Link></li>
                                                         <li><Link target="_blank" href="#"><i className="fab fa-youtube" /></Link></li>
                                                     </ul>
-                                                </div> */}
+                                                </div>
                                             </div>
                                         </nav>
                                     </div>
