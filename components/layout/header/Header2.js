@@ -27,7 +27,7 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu, transp
                                 <div className="col-lg-6">
                                     <ul className="tg-header__top-right tg-header__top-right-two list-wrap">
                                         <li><i className="flaticon-envelope" />Inquiry.bageshworitraders@gmail.com</li>
-                                        <li><i className="flaticon-time" />Sun-Fri: 08:00am - 06:00pm</li>
+                                        <li><i className="flaticon-time" />Sun-Fri: 10:00am - 06:00pm</li>
                                     </ul>
                                 </div>
                             </div>

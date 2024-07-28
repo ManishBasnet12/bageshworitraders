@@ -41,7 +41,7 @@ export default function Footer2() {
                               <i className="flaticon-envelope" />
                             </div>
                             <div className="content">
-                               <p> Inquiry.bageshworitraders@gmail.co{" "}</p>
+                               <p> Inquiry.bageshworitraders@gmail.com{" "}</p>
                             </div>
                           </li>
                           <li>
