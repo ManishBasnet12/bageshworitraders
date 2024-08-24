@@ -10,14 +10,7 @@ export default function Request2() {
                         <div className="col-xl-5 col-lg-6">
                             <div className="request__content-two">
                                 <h2 className="title">Empowering Futures Through <span>Diverse Solutions for Technology</span></h2>
-                                {/* <div className="request__phone">
-                                    <div className="icon">
-                                        <i className="flaticon-phone-call text-white" />
-                                    </div>
-                                    <div className="content" style={{color:"white", fontSize:"20px"}}>
-                                    +977(984)-0636305
-                                    </div>
-                                </div> */}
+                                
                             </div>
                         </div>
                     </div>
